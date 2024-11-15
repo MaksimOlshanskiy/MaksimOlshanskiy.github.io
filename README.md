@@ -68,7 +68,7 @@
    <td>4</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/portfolio/tree/main/04_games-market-research">
+         <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/04_igrovoi_rinok">
          Исследование рынка компьютерных игр</a>
      </b>
  </td>
@@ -79,27 +79,26 @@
 <td>
         <code>pandas</code><br>
         <code>matplotlib</code><br>
-        <code>stats</code><br>
-        <code>numpy</code>
+        <code>seaborn</code><br>
+        <code>scipy</code>
 </td>
 </tr>
 <tr>
    <td>5</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/portfolio/tree/main/05_etl_flights">
-         Аналитика в авиакомпании</a>
+         <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/05_analiz_marketingovih_ubitkov">
+         Анализ маркетинговых убытков компании</a>
      </b>
  </td>
  <td>
-    Загрузил данные из различных источников (БД, парсинг сайта) и проанализировал их.
+    Составил профили пользователей. Расчитал и проанализировал LTV, ROI, удержание и конверсию. Сформулировал рекомендации для уменьшения убытков. 
 </td>
 <td>
         <code>pandas</code><br>
         <code>matplotlib</code><br>
-        <code>requests</code><br>
-        <code>BeautifulSoup</code><br>
-        <code>SQL</code>
+        <code>numpy</code><br>
+        <code>datetime</code>
 </td>
 </tr>
 
