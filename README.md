@@ -120,6 +120,28 @@
         <code>scipy</code>
 </td>
 </tr>
-
+<tr>
+   <td>7</td>
+   <td>
+      <b>
+         <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/07_analiz_povedenia">
+         Анализ пользовательского поведения мобильного приложения</a>
+     </b>
+ </td>
+ <td>
+    Изучил воронку событий. Провёл анализ А/B теста и сделал проверку статистических гипотез.
+</td>
+<td>
+        <code>pandas</code><br>
+        <code>matplotlib</code><br>
+        <code>numpy</code><br>
+        <code>datetime</code>
+        <code>scipy</code>
+        <code>plotly</code>
+        <code>pylab</code>
+        <code>math</code>
+        <code>seaborn</code>
+</td>
+</tr>
 </tbody>
 </table>
