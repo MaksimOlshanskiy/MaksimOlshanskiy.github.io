@@ -17,7 +17,7 @@
        <td>1</td>
        <td>
           <b>
-             <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/935005f2563c3937bdc28f773a0a457050d1cc95/01_credit-scoring">
+             <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/01_credit-scoring">
              Исследование надежности заемщиков</a>
           </b>
      </td>
@@ -26,16 +26,13 @@
     </td>
     <td>
         <code>pandas</code><br/>
-        <code>pymystem3</code><br/>
-        <code>nltk.stem</code><br/>
-        <code>numpy</code>
     </td>
 </tr>
 <tr>
    <td>2</td>  
    <td>
       <b>
-         <a href="https://github.com/galaleksey/portfolio/tree/main/02_eda_apartment-advertisements">
+         <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/02_rynok_nedvizhimosti">
          Исследование объявлений о продаже квартир в Яндекс.Недвижимость</a>
      </b>
  </td>
@@ -53,17 +50,17 @@
    <td>3</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/portfolio/tree/main/03_statistics_telecom">
-         Определение перспективного тарифа для телеком компании</a>
+         <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/03_arenda_samokatov">
+         Исследование данных сервиса аренды самокатов</a>
      </b>
  </td>
  <td>
-    Исследовал поведение клиентов телеком оператора при пользовании тарифами. Определил, какой тариф лучше.
+    Проанализировал данные и проверил гипотезы, которые могут помочь бизнесу вырасти
 </td>
 <td>
         <code>pandas</code><br>
         <code>matplotlib</code><br>
-        <code>stats</code><br>
+        <code>scipy</code><br>
         <code>numpy</code><br><br>
 </td>
 </tr>
