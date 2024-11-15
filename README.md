@@ -101,6 +101,25 @@
         <code>datetime</code>
 </td>
 </tr>
+<tr>
+   <td>5</td>
+   <td>
+      <b>
+         <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/06_AB_test">
+         Проведение и анализ А/B теста для интернет магазина</a>
+     </b>
+ </td>
+ <td>
+    Сделал приоритизацию гипотез и провёл анализ результатов A/B-теста. 
+</td>
+<td>
+        <code>pandas</code><br>
+        <code>matplotlib</code><br>
+        <code>numpy</code><br>
+        <code>datetime</code>
+        <code>scipy</code>
+</td>
+</tr>
 
 </tbody>
 </table>
