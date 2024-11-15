@@ -102,7 +102,7 @@
 </td>
 </tr>
 <tr>
-   <td>5</td>
+   <td>6</td>
    <td>
       <b>
          <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/06_AB_test">
