@@ -143,5 +143,24 @@
         <code>seaborn</code>
 </td>
 </tr>
+<tr>
+   <td>8</td>
+   <td>
+      <b>
+         <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/07_analiz_povedenia">
+         Исследование рынка заведений общественного питания Москвы</a>
+     </b>
+ </td>
+ <td>
+    Сделал анализ и визуализировал данные. Сделал фоновые картограммы. Дал рекомендации для открытия нового заведения. 
+</td>
+<td>
+        <code>pandas</code><br>
+        <code>matplotlib</code><br>
+        <code>folium</code><br>
+        <code>plotly</code>
+        <code>seaborn</code>
+</td>
+</tr> 
 </tbody>
 </table>
