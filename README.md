@@ -147,7 +147,7 @@
    <td>8</td>
    <td>
       <b>
-         <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/07_analiz_povedenia">
+         <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/08_analiz_rinka_pitaniya">
          Исследование рынка заведений общественного питания Москвы</a>
      </b>
  </td>
@@ -162,5 +162,21 @@
         <code>seaborn</code>
 </td>
 </tr> 
+<tr>
+   <td>9</td>
+   <td>
+      <b>
+         <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/09_tableau_dashboard">
+         Построение дашбордов на основе данных о конференциях TED</a>
+     </b>
+ </td>
+ <td>
+    Сделал анализ и визуализировал данные. Сделал фоновые картограммы. Дал рекомендации для открытия нового заведения. 
+</td>
+<td>
+        <code>Tableau</code><br>
+
+</td>
+</tr>  
 </tbody>
 </table>
