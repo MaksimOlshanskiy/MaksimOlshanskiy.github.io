@@ -178,5 +178,27 @@
 
 </td>
 </tr>  
+<tr>
+   <td>10</td>
+   <td>
+      <b>
+         <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/09_tableau_dashboard">
+         E-commerce — Выявление профилей потребления</a>
+     </b>
+ </td>
+ <td>
+    Изучил данные и визуализировал их с помощью дашбордов в Tableau, сделал на их основе презентацию. 
+</td>
+<td>
+        <code>pandas</code><br>
+        <code>matplotlib</code><br>
+        <code>seaborn</code><br>
+        <code>scipy</code><br>
+        <code>numpy</code><br>
+        <code>datetime</code><br>
+        
+
+</td>
+</tr> 
 </tbody>
 </table>
