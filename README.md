@@ -180,7 +180,7 @@
    <td>10</td>
    <td>
       <b>
-         <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/09_tableau_dashboard">
+         <a href="https://github.com/MaksimOlshanskiy/MaksimOlshanskiy.github.io/tree/main/10_e-commerce%20%E2%80%94%20profili%20potrebleniya">
          E-commerce — Выявление профилей потребления</a>
      </b>
  </td>
